@@ -14,11 +14,11 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","EvoXpro")
+OWNER_USERNAME = getenv("OWNER_USERNAME","DISTROYERx7")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "EvoXpro")
+BOT_USERNAME = getenv("BOT_USERNAME" , "rubimusicbot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "EvoXpro")
+BOT_NAME = getenv("BOT_NAME" , "DESTROYER")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "MREVO")
 # ---------------------------------------------------------
@@ -36,10 +36,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002133369721))
+LOGGER_ID = int(getenv("LOGGER_ID", -1001808760067))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 5948367761))
+OWNER_ID = int(getenv("OWNER_ID", 6015276243))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # ----------------------------------------------------------------
@@ -55,7 +55,7 @@ DEEP_API = getenv("DEEP_API")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/golujha9936/EvoXpro/",
+    "https://github.com/Ayushjha9988/AYUSHXpro",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -69,8 +69,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/About_EvoXpro_Owner")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+Js4pbHpeiWBhZjI9")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/rubimusc")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/aushworld")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
